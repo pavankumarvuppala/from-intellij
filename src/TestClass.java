@@ -6,5 +6,6 @@ public class TestClass {
         System.out.println("Hello world");
 
         // in feature branch only
+        //stash changes
     }
 }
